@@ -1,6 +1,6 @@
 {
   "name": "ledshim",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "Unofficial JS port Pimoroni LED SHIM (https://shop.pimoroni.com/products/led-shim) python driver",
   "main": "ledshim.js",
   "scripts": {
