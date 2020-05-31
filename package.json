@@ -1,0 +1,25 @@
+{
+  "name": "ledshim",
+  "version": "0.0.1",
+  "description": "Unofficial JS port Pimoroni LED SHIM (https://shop.pimoroni.com/products/led-shim) python driver",
+  "main": "ledshim.js",
+  "scripts": {
+    "test": "echo \"No test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alanho/ledshim.git"
+  },
+  "keywords": [
+    "ledshim"
+  ],
+  "author": "Alan Ho",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alanho/ledshim/issues"
+  },
+  "homepage": "https://github.com/alanho/ledshim#readme",
+  "dependencies": {
+    "i2c-bus": "^5.2.0"
+  }
+}
